@@ -1,0 +1,22 @@
+table, th, td {
+	border: 1px black solid;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+}
+th {
+    height: 30px;
+    background-color: lightsalmon;
+    font-size: 18px;
+}
+
+td {
+    height: 25px;
+    text-align: center;
+}
+
+.fa-file-download {
+    cursor: pointer;
+}
